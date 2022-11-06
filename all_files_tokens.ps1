@@ -15,3 +15,5 @@ function Get-Token {
 }
 
 Get-Token -folderName mixed_malicious
+Get-Token -folderName malicious_pure
+Get-Token -folderName powershell_benign_dataset

@@ -39,4 +39,6 @@ function Get-Ast {
     }
 }
 
+Get-Ast -FolderName malicious_pure
+Get-Ast -FolderName powershell_benign_dataset
 Get-Ast -FolderName mixed_malicious
